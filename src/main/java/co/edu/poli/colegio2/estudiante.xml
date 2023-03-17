@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+
+<!--  <!DOCTYPE estudiantes[]> -->
+
+<!DOCTYPE estudiantes SYSTEM "estudiantes.dtd" >
+<estudiantes>
+    <!-- Este es un comentario -->
+    <estudiante nombre="Elian Ruiz">
+        <edad>21</edad>
+        <comentario>se usa mucho</comentario>
+    </estudiante>
+</estudiantes>

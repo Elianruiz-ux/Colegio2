@@ -1,0 +1,7 @@
+<!ELEMENT estudiantes (estudiante)>
+    <!ELEMENT estudiante (edad,comentario)>
+    <!ATTLIST estudiante nombre #PCDATA>
+        <!ELEMENT edad (#PCDATA)>
+        <!ELEMENT comentario (#PCDATA)>
+
+
